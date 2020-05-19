@@ -2,11 +2,12 @@
     margin : 5px auto;
     width: 500px;
     border: 1px solid black;
+    
 
 }
 
 #image {
-   max-width: 500px;
-   
-   
+     display: block;
+     margin: auto;
+    max-width: 500px;
 }
